@@ -1,5 +1,5 @@
 # Coding-Interviews
 
-If you want to get all the rectangles from dots, you can use this tool.
-Just change the board for your problem and the script will take care of the rest.
+I will post some of the exercise that sometimes companies ask in their interviews.
+If you are struggling with some exercise, you can contact me with email. (tiagofmarante@gmail.com)
 
